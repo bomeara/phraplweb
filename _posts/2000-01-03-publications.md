@@ -12,7 +12,7 @@ If you want an early way to cite PHRAPL, you could use our bioRxiv manuscript (n
 
 This has gone through the usual rounds of peer review; it is currently accepted pending major revision at *Systematic Biology*:
 
-We have two other manuscripts in press
+We have two other manuscripts in press:
 
 * Morales, A.E., N.D. Jackson, T.A. Dewey, B.C. O'Meara, B.C. Carstens. 2017. "Speciation with gene flow in North American *Myotis* bats." *Systematic Biology*, doi: 10.1093/sysbio/syw100, Early Access at [http://sysbio.oxfordjournals.org/content/early/2016/11/06/sysbio.syw100.short?rss=1](http://sysbio.oxfordjournals.org/content/early/2016/11/06/sysbio.syw100.short?rss=1)
 
