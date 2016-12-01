@@ -2,7 +2,7 @@
 title: "distribution"
 bg: darkmagenta
 color: white
-style: center
+style: left
 fa-icon: github
 ---
 
