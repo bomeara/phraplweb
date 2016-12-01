@@ -1,6 +1,6 @@
 ---
 title: "distribution"
-bg: purple
+bg: darkmagenta
 color: white
 style: center
 fa-icon: github
@@ -20,4 +20,4 @@ Then you can use
 
 `docker run -it --name bomeara/phydocker -v /Path/To/My/Folder:/data -p 8787:8787 bomeara/phydocker`
 
-to run it as an RStudio Server. Change `/Path/To/My/Folder` to your absolute path to the folder you want access to (any subfolders will also be accessible). You can read and write to this in RStudio as the `/data` directory. In your web browser, go to `localhost:8787`, enter username and password (both are `rstudio`), to launch a version of RStudio that will run in your browser and have everything you might need. You might want to do `setwd("/data")` to make sure you're in the right directory. You can save any results or figures to this directory and it will still exist when you quit this instance.
+to run it as an RStudio Server. Change `/Path/To/My/Folder` to the absolute path to the folder you want access to (any subfolders will also be accessible). You can read and write to this in RStudio as the `/data` directory. In your web browser, go to `localhost:8787`, enter username and password (both are `rstudio`), to launch a version of RStudio that will run in your browser and have everything you might need. You might want to do `setwd("/data")` to make sure you're in the right directory. You can save any results or figures to this directory and it will still exist when you quit this instance.
