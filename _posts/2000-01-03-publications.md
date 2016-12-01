@@ -1,6 +1,6 @@
 ---
 title: "publications"
-bg: darkpurple
+bg: darkmagenta
 color: white
 style: left
 fa-icon: file-text
