@@ -1,7 +1,7 @@
 ---
 title: "distribution"
 bg: blue
-color: orange
+color: white
 style: center
 fa-icon: github
 ---
@@ -20,4 +20,4 @@ Then you can use
 
 `docker run -it --name bomeara/phydocker -v /Path/To/My/Folder:/data -p 8080:8080 bomeara/phydocker`
 
-to run it as an RStudio Server (username and password are both `rstudio`) with access to your current folder. Within 
+to run it as an RStudio Server (username and password are both `rstudio`) with access to your current folder. Within
