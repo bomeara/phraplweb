@@ -1,8 +1,8 @@
 ---
 title: "publications"
-bg: lightyellow
-color: black
-style: center
+bg: darkpurple
+color: white
+style: left
 fa-icon: file-text
 ---
 
