@@ -1,6 +1,6 @@
 ---
 title: "distribution"
-bg: blue
+bg: purple
 color: white
 style: center
 fa-icon: github
